@@ -1,0 +1,13 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.flexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: DodgerBlue;
+    height:50%;
+    width:50%;
+}
+
