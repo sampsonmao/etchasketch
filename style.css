@@ -6,8 +6,22 @@ html, body {
 .flexContainer {
     display: flex;
     flex-wrap: wrap;
-    background-color: DodgerBlue;
-    height:50%;
-    width:50%;
+    margin: 40px auto;
+    background-color: white;
+    border: 1px solid black;
+    height:500px;
+    width:500px;
 }
+
+button {
+    display: block;
+    margin: auto;
+}
+
+h2 {
+    text-align:center;
+    padding-top:10px;
+}
+
+
 
